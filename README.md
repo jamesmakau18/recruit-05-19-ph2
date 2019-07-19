@@ -38,10 +38,13 @@ Feel free to use whatever language you most feel comfortable in.
 
 ## Applicant Section
 
-### Hosted App Link
-
-    Paste your hosted application url here: __
+### Hosted App Link    
+    http://test.hawacapital.co.ke
 
 ### Comments
-
-    Add your comments below:
+ Staff Sales - create products, sale, see low stock notifications and make orders from warehouse
+ Username:staff@admin.com
+ Password:123456
+ WareHouse 
+ Username:store@admin.com - recieve ordered items from store and dispatch back to the store
+ Password:123456
